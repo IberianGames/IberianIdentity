@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Google Play game services IDs.
+Save this file as res/values/games-ids.xml in your project.
+-->
+<resources>
+  <string name="app_id">344123377202</string>
+  <string name="package_name">com.iberiangames.iberiangamessystem</string>
+  <string name="achievement_test_achievement_1">CgkIsozo-oEKEAIQAQ</string>
+  <string name="achievement_test_achievement_2">CgkIsozo-oEKEAIQAg</string>
+  <string name="achievement_test_achievement_3">CgkIsozo-oEKEAIQAw</string>
+  <string name="achievement_test_achievement_4">CgkIsozo-oEKEAIQBA</string>
+  <string name="achievement_test_achievement_5">CgkIsozo-oEKEAIQBQ</string>
+  <string name="achievement_test_achievement_6">CgkIsozo-oEKEAIQCA</string>
+</resources>
