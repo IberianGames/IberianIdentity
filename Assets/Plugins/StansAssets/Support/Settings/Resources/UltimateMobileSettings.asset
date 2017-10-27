@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b91a7deec5b9f48e785f526d406a9b0f, type: 3}
   m_Name: UltimateMobileSettings
   m_EditorClassIdentifier: 
-  ToolbarSelectedIndex: 0
+  ToolbarSelectedIndex: 5
   InAppProducts: []
   TransactionsHandlingMode: 0
   InApps_EditorFillRateIndex: 4
@@ -31,8 +31,8 @@ MonoBehaviour:
   IsCameraAndGallerySettingsOpen: 1
   IsCameraAndGalleryAndroidSettingsOpen: 0
   IsCameraAndGalleryIOSSettingsOpen: 0
-  IsLP_Android_SettingsOpen: 0
+  IsLP_Android_SettingsOpen: 1
   IsLP_IOS_SettingsOpen: 0
-  TP_Android_SettingsOpen: 0
+  TP_Android_SettingsOpen: 1
   TP_IOS_SettingsOpen: 0
   PlatformEngine: 0

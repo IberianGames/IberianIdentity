@@ -11,10 +11,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a04884765aeeb4749909d668fc086f5c, type: 3}
   m_Name: AndroidNativeSettings
   m_EditorClassIdentifier: 
-  EnablePlusAPI: 0
+  EnablePlusAPI: 1
   EnableGamesAPI: 1
   EnableAppInviteAPI: 0
-  EnableDriveAPI: 1
+  EnableDriveAPI: 0
   LoadProfileIcons: 1
   LoadProfileImages: 0
   LoadQuestsImages: 1
@@ -49,11 +49,11 @@ MonoBehaviour:
   PushService: 0
   SaveCameraImageToGallery: 0
   UseProductNameAsFolderName: 1
-  GalleryFolderName: AltivaSystem
+  GalleryFolderName: IberianGamesSystem
   MaxImageLoadSize: 512
   CameraCaptureMode: 0
   ImageFormat: 0
-  ShowAppPermissions: 0
+  ShowAppPermissions: 1
   EnableBillingAPI: 0
   EnablePSAPI: 1
   EnableSocialAPI: 0
@@ -79,17 +79,17 @@ MonoBehaviour:
   GooglePlayServicesAPI: 1
   PlayServicesAdvancedSignInAPI: 1
   GoogleButtonAPI: 0
-  AnalyticsAPI: 0
+  AnalyticsAPI: 1
   GoogleCloudSaveAPI: 1
   PushNotificationsAPI: 0
-  GoogleMobileAdAPI: 0
-  GoogleOAuthAPI: 0
+  GoogleMobileAdAPI: 1
+  GoogleOAuthAPI: 1
   GalleryAPI: 0
   CameraAPI: 0
   KeepManifestClean: 1
-  GooglePlayServiceAppID: 344123377202
-  ToolbarSelectedIndex: 0
-  base64EncodedPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjy0A/bxn494jCQKad1pKkDYdHbpEiVzdm3T2D/+EoLHoywj+i7rVacJQQ0eNtE4BPtwJMq/sQc9e05Lm4kN8YswpxZ8qLFE8+cW0wV5ThfxuEZPvnqBbdYn8x2bJi19TwmGExtlPldwkC9Oe2Wi8oNurV4r5Zd93g9k91dDl0fBFD1HqUjezksXVhR/dq5CAbPLMScSwvyA9FXLuEiEgDYAaRO0diNJyZ9gnZMND+kti1jvnr5ThtbOeXn1x4NwFXTs7dFJICMrw4h/SxiJH1CWcHTlRpegSGJKMTAiOvDcG8QSL41GG1uP1w1KeBumYW2Y98Q6U5bLaLv2TPh5fPQIDAQAB
+  GooglePlayServiceAppID: 137475212426
+  ToolbarSelectedIndex: 1
+  base64EncodedPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm+nmoT2wNsPNy6DEx+RYxdT8E3WB2gGm+C5GpZZBlwUFUOLhknrRpNX+O75YrwnSzmxG+R1DeTSTuLt/kC4DSVIo+tfqj3OUGntl2gz/u6al65epftuK+DFAQVL9PFcx4Our217wEraJxFM5Ka002/87VZhdVhOTP3TP+iBwzDje35/niHOV/anuA0x+T9Sx0hDIkyaqKQ4mbHPha8+tiFy5BEE2WCcTpTQS7t3UJ4Qx8fUSbF0C4tNGZ0Aqb9olT1JqpllGLPEg+L0ojLGB+t3cp03nOBL/27gDJbHK0pym9ixrbUPEZvwSwHq525CjF+m/9wb65p63j4TrHNKxlQIDAQAB
   ShowStoreProducts: 1
   InAppProducts: []
   ShowLeaderboards: 1

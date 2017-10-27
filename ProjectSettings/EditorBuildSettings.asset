@@ -15,5 +15,5 @@ EditorBuildSettings:
     path: 
     guid: 5fd8d756042f10b4f9c6992b7d9184a0
   - enabled: 1
-    path: Assets/_IberianSystem/IberianIdentity/Scenes/AltivaIdentityTest.unity
+    path: Assets/_IberianSystem/IberianIdentity/Scenes/IberianIdentityTest.unity
     guid: 8275849f766f49f4384f3be0fc1305a8
